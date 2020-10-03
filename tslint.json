@@ -1,6 +1,6 @@
 {
     // "extends": ["tslint-react"]
-    // "rules": {
+    // "rules": { 
     //     "align": [
     //         true,
     //         "parameters",
